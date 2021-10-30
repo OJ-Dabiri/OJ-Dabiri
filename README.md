@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @OJ Dabiri
 - 👀 I’m interested in Computer Programming, including: Game Design and coding, Web design, Data science and analysis, Databases, Mobile app design and much more!
-- 🌱 I’m currently learning Java and C++
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on making video games and mobile apps
-- I'm very good with JavaScript, HTML, CSS and Python.
+- I'm very good with JavaScript, HTML, CSS, Python and Java.
 
 <!---
 OJ-Dabiri/OJ-Dabiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
